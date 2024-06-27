@@ -13,7 +13,7 @@ We'll be modifying this database via Active Record only. The `setup.rb` file alr
 
 That said, feel free to connect to your Postgres database using `psql` or pgAdmin so that you can see what's in the database.
 
-## Instructions
+H3yLadies## Instructions
 
 ### Setup
 
